@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturbieniek4&label=Profile%20views&color=0e75b6&style=flat" alt="arturbieniek4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arturbieniek4" alt="arturbieniek4" /></a> </p>
-
 - 📚 Student of Computer Science at University of Wrocław [my work](https://github.com/ArturBieniek4/University)
 
 - 🌱 I’m currently learning **Operating Systems, Embedded Systems**
