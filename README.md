@@ -5,11 +5,9 @@
 
 - 📚 Student of Computer Science at University of Wrocław [my work](https://github.com/ArturBieniek4/University)
 
-- 🌱 I’m currently learning **Operating Systems, Embedded Systems**
+- 🌱 I’m currently learning **Operating Systems, Embedded Systems, FPGAs**
 
-- 🔭 I’m currently working on **Dynamic electricity prices**
-
-- 👯 I’m looking to collaborate on **Antminer X5 reflashing**
+- 🔭 I’m currently working on **Vast.AI GPU rigs**
 
 - ⚡ Fun fact **I work as a lifeguard during holiday**
 
