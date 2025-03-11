@@ -5,7 +5,7 @@
 
 - 📚 Student of Computer Science at University of Wrocław [my work](https://github.com/ArturBieniek4/University)
 
-- 🌱 I’m currently learning **Operating Systems, Embedded Systems, FPGAs**
+- 🌱 I’m currently learning **CPU core design, FPGAs**
 
 - 🔭 I’m currently working on **Vast.AI GPU rigs**
 
