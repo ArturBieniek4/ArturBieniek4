@@ -5,11 +5,11 @@
 
 - 📚 Student of Computer Science at University of Wrocław [my work](https://github.com/ArturBieniek4/University)
 
-- 🌱 I’m currently learning **CPU core design, FPGAs**
+- 🌱 I’m currently learning **CPU core design, FPGAs, Networking, Advanced SQL**
 
-- 🔭 I’m currently working on **Vast.AI GPU rigs**
+- 🔭 I’m currently working on **Vast.AI GPU rigs, generating branch predictors using LLMs**
 
-- ⚡ Fun fact **I work as a lifeguard during holiday**
+- ⚡ Fun fact **I work(ed) as a lifeguard during holiday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
