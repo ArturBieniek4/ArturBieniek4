@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CPU core design, FPGAs, Networking, Advanced SQL**
 
-- 🔭 I’m currently working on **Vast.AI GPU rigs, generating branch predictors using LLMs**
+- 🔭 I’m currently working on **Vast.AI GPU rigs, generating branch predictors using LLMs, DRAM refresh rate hacking**
 
 - ⚡ Fun fact **I work(ed) as a lifeguard during holiday**
 
