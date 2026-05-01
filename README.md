@@ -43,7 +43,5 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arturbieniek4&show_icons=true&locale=en&layout=compact" alt="arturbieniek4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturbieniek4&show_icons=true&locale=en" alt="arturbieniek4" /></p>
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
