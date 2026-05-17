@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturbieniek4&label=Profile%20views&color=0e75b6&style=flat" alt="arturbieniek4" /> </p>
 
-- 📚 Computer Science engineering graduate at University of Wrocław [my work](https://github.com/ArturBieniek4/University) [my thesis] (https://github.com/ArturBieniek4/engineering-thesis)
+- 📚 Computer Science engineering graduate at University of Wrocław [my work](https://github.com/ArturBieniek4/University) [my thesis](https://github.com/ArturBieniek4/engineering-thesis)
 
 - 🌱 I’m currently learning **CPU core design, FPGAs, Networking, Advanced SQL**
 
