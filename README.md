@@ -64,6 +64,7 @@ Beyond hardware simulation, I'm interested in **security research,
 reverse engineering and hardware**.
 
 **CTFs:** Break The Syntax 2026 - 2nd place (as a team)
+**Hackathons:** FPGA Hackathon 2026 - 1st place (as a team)
 
 ## GitHub activity
 
